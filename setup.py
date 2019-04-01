@@ -5,7 +5,7 @@ with open("README.md", 'r') as fh:
 
 setuptools.setup(
     name = "SQLtills",
-    version = "0.0.1",
+    version = "0.0.3",
     author = "Omar Nasr",
     author_email = "omardev9898@gmail.com",
     description = "Simple CRUD utilities for sqlalchemy",

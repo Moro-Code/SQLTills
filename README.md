@@ -7,7 +7,7 @@ Finding myself having to duplicate code for my projects for CRUD even when using
 SQLtills is available on PyPi so to install simply:
 
 ```sh
-pip install -U sqltills
+pip install -U SQLtills
 ```
 
 ## How to use sqltills
