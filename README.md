@@ -53,7 +53,7 @@ Awesome we now have the two tables in the database and the models defined. In th
 from sqltills import create_rows
 
 session_maker = sessionmaker(bind = engine)
-session = sessionmaker()
+session = session_maker()
 
 new_author = Author()
 new_author.name = "Omar"
